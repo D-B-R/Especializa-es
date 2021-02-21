@@ -10,4 +10,4 @@
 
 ##  Estrutura Básica 
 
-
+Foi apresentado a estrutura básica de html para o desenvolvimento de um site pessoal

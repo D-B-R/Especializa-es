@@ -20,6 +20,7 @@
 
 ```
 Editor Sublime Text
+Navegador Chrome 
 ```
 
 
