@@ -8,6 +8,6 @@
 
 
 
-##  Tags para Links 
+##  Semântica 
 
-Foi apresentado a estrutura básica de tags no html para o desenvolvimento de um site pessoal
+Foi apresentado a estrutura básica de semântica no html para o desenvolvimento de um site pessoal
